@@ -44,7 +44,7 @@
    **`To Save press CTRL + X + Y
 Enter`**
 
-## OR YOU CAN ALSO `COPY` THR CODE BELOW
+## OR YOU CAN ALSO `COPY` THE CODE BELOW
   
   ```bash
   echo 'export GYP_DEFINES="android_ndk_path="' >> ~/.bashrc && source ~/.bashrc
